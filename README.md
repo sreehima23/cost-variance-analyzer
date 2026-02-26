@@ -3,7 +3,7 @@
 **Manufacturing cost variance analysis tool — automates PPV, Usage, Labor Rate, Labor Efficiency, and Overhead variance calculations.**
 
 ## What This Solves
-In manufacturing companies like Foxconn, cost accountants must manually compare standard costs vs actual costs every month across dozens of products. This tool automates that entire workflow.
+In manufacturing companies, cost accountants must manually compare standard costs vs actual costs every month across dozens of products. This tool automates that entire workflow.
 
 ## Variances Calculated
 | Variance Type | Formula |
